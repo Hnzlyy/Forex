@@ -1,0 +1,12 @@
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\bin\Debug\Forex.exe.config
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\bin\Debug\Forex.exe
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\bin\Debug\Forex.pdb
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\bin\Debug\Forex.xml
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\obj\Debug\Forex.vbproj.AssemblyReference.cache
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\obj\Debug\Forex.Form1.resources
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\obj\Debug\Forex.Resources.resources
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\obj\Debug\Forex.vbproj.GenerateResource.cache
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\obj\Debug\Forex.vbproj.CoreCompileInputs.cache
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\obj\Debug\Forex.exe
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\obj\Debug\Forex.xml
+C:\Users\Hnz\Desktop\Hnz-Forex\Forex\Forex\obj\Debug\Forex.pdb
